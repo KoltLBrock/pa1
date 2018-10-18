@@ -1,0 +1,11 @@
+C:\CIDM4365 Code\pa\bin\Debug\netcoreapp2.1\pa.deps.json
+C:\CIDM4365 Code\pa\bin\Debug\netcoreapp2.1\pa.runtimeconfig.json
+C:\CIDM4365 Code\pa\bin\Debug\netcoreapp2.1\pa.runtimeconfig.dev.json
+C:\CIDM4365 Code\pa\bin\Debug\netcoreapp2.1\pa.dll
+C:\CIDM4365 Code\pa\bin\Debug\netcoreapp2.1\pa.pdb
+C:\CIDM4365 Code\pa\obj\Debug\netcoreapp2.1\pa.csprojAssemblyReference.cache
+C:\CIDM4365 Code\pa\obj\Debug\netcoreapp2.1\pa.csproj.CoreCompileInputs.cache
+C:\CIDM4365 Code\pa\obj\Debug\netcoreapp2.1\pa.AssemblyInfoInputs.cache
+C:\CIDM4365 Code\pa\obj\Debug\netcoreapp2.1\pa.AssemblyInfo.cs
+C:\CIDM4365 Code\pa\obj\Debug\netcoreapp2.1\pa.dll
+C:\CIDM4365 Code\pa\obj\Debug\netcoreapp2.1\pa.pdb
