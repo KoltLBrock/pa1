@@ -9,3 +9,14 @@ C:\CIDM4365 Code\pa\obj\Debug\netcoreapp2.1\pa.AssemblyInfoInputs.cache
 C:\CIDM4365 Code\pa\obj\Debug\netcoreapp2.1\pa.AssemblyInfo.cs
 C:\CIDM4365 Code\pa\obj\Debug\netcoreapp2.1\pa.dll
 C:\CIDM4365 Code\pa\obj\Debug\netcoreapp2.1\pa.pdb
+C:\Users\Kolton\Desktop\work\pa1\pa1\bin\Debug\netcoreapp2.1\pa.deps.json
+C:\Users\Kolton\Desktop\work\pa1\pa1\bin\Debug\netcoreapp2.1\pa.runtimeconfig.json
+C:\Users\Kolton\Desktop\work\pa1\pa1\bin\Debug\netcoreapp2.1\pa.runtimeconfig.dev.json
+C:\Users\Kolton\Desktop\work\pa1\pa1\bin\Debug\netcoreapp2.1\pa.dll
+C:\Users\Kolton\Desktop\work\pa1\pa1\bin\Debug\netcoreapp2.1\pa.pdb
+C:\Users\Kolton\Desktop\work\pa1\pa1\obj\Debug\netcoreapp2.1\pa.csprojAssemblyReference.cache
+C:\Users\Kolton\Desktop\work\pa1\pa1\obj\Debug\netcoreapp2.1\pa.csproj.CoreCompileInputs.cache
+C:\Users\Kolton\Desktop\work\pa1\pa1\obj\Debug\netcoreapp2.1\pa.AssemblyInfoInputs.cache
+C:\Users\Kolton\Desktop\work\pa1\pa1\obj\Debug\netcoreapp2.1\pa.AssemblyInfo.cs
+C:\Users\Kolton\Desktop\work\pa1\pa1\obj\Debug\netcoreapp2.1\pa.dll
+C:\Users\Kolton\Desktop\work\pa1\pa1\obj\Debug\netcoreapp2.1\pa.pdb
