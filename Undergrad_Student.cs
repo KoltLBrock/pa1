@@ -21,10 +21,12 @@ namespace pa{
         protected void addStudentInfo(){
 
         }
-        protected void updateStdInfo(){
-
+        protected void updateStdInfo(string stud_name, string birth_date, long student_id, string student_major, float student_gpa,string prev_high_school,Classification std_classification){
+            base.updateStdInfo(stud_name,birth_date,student_id,student_major,student_gpa);
+            previousHSchool = prev_high_school;
+            stdClass = std_classification;
         }
-        protected void displayStdInfo(){
+        protected new void displayStdInfo(){
             base.displayStdInfo();
             Console.WriteLine("Previous High School: " + previousHSchool + "\nStudent Level: " + stdClass);
         }
