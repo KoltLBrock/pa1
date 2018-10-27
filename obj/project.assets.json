@@ -681,28 +681,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kolton\\.nuget\\packages\\": {},
+    "C:\\Users\\John\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Kolton\\Desktop\\work\\pa1\\pa1\\pa.csproj",
+      "projectUniqueName": "c:\\CIDM4360\\pa1\\pa1\\pa.csproj",
       "projectName": "pa",
-      "projectPath": "c:\\Users\\Kolton\\Desktop\\work\\pa1\\pa1\\pa.csproj",
-      "packagesPath": "C:\\Users\\Kolton\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Kolton\\Desktop\\work\\pa1\\pa1\\obj\\",
+      "projectPath": "c:\\CIDM4360\\pa1\\pa1\\pa.csproj",
+      "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
+      "outputPath": "c:\\CIDM4360\\pa1\\pa1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Kolton\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\John\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -1,5 +1,7 @@
 using System;
-
+/*
+Kolton L Brock
+ */
 namespace pa{
     public class Student{
         //generic student class
@@ -18,9 +20,9 @@ namespace pa{
             Major = student_major;
             GPA = student_gpa;
         }
-        protected void addStudentInfo(){
+        //protected void addStudentInfo(){
 
-        }
+        //}
         protected void updateStdInfo(string stud_name, string birth_date, long student_id, string student_major, float student_gpa){
             StudName = stud_name;
             DateOfBirth = birth_date;

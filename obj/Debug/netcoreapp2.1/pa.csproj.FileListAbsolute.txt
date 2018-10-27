@@ -20,3 +20,14 @@ C:\Users\Kolton\Desktop\work\pa1\pa1\obj\Debug\netcoreapp2.1\pa.AssemblyInfoInpu
 C:\Users\Kolton\Desktop\work\pa1\pa1\obj\Debug\netcoreapp2.1\pa.AssemblyInfo.cs
 C:\Users\Kolton\Desktop\work\pa1\pa1\obj\Debug\netcoreapp2.1\pa.dll
 C:\Users\Kolton\Desktop\work\pa1\pa1\obj\Debug\netcoreapp2.1\pa.pdb
+C:\CIDM4360\pa1\pa1\bin\Debug\netcoreapp2.1\pa.deps.json
+C:\CIDM4360\pa1\pa1\bin\Debug\netcoreapp2.1\pa.runtimeconfig.json
+C:\CIDM4360\pa1\pa1\bin\Debug\netcoreapp2.1\pa.runtimeconfig.dev.json
+C:\CIDM4360\pa1\pa1\bin\Debug\netcoreapp2.1\pa.dll
+C:\CIDM4360\pa1\pa1\bin\Debug\netcoreapp2.1\pa.pdb
+C:\CIDM4360\pa1\pa1\obj\Debug\netcoreapp2.1\pa.csprojAssemblyReference.cache
+C:\CIDM4360\pa1\pa1\obj\Debug\netcoreapp2.1\pa.csproj.CoreCompileInputs.cache
+C:\CIDM4360\pa1\pa1\obj\Debug\netcoreapp2.1\pa.AssemblyInfoInputs.cache
+C:\CIDM4360\pa1\pa1\obj\Debug\netcoreapp2.1\pa.AssemblyInfo.cs
+C:\CIDM4360\pa1\pa1\obj\Debug\netcoreapp2.1\pa.dll
+C:\CIDM4360\pa1\pa1\obj\Debug\netcoreapp2.1\pa.pdb
